@@ -2,7 +2,7 @@
 
 For this test you are required to use the attached screenshot and recreate it using HTML and CSS. Inside this repository is a starting point for your solution, including content, fonts and colour values.
 
-![finished solution](https://raw.githubusercontent.com/clocklimited/PlacementFrontEndCodingTestMaster/main/image.jpg?token=ACWOBVHRPDTRBTFS3BH5S2K7WZIU6)
+![finished solution](image.jpg)
 
 Your finished solution should:
 
